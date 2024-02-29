@@ -1,0 +1,4 @@
+it follows prefix:
+1 find the fast element and put that in the correct index
+2.then put all the element from low to pivot-1 in the left and pivot +1 till high in the right
+3.make a recusrsive call

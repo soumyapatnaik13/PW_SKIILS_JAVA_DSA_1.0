@@ -1,0 +1,6 @@
+sort the array in two halfs 
+then when it reaches the single elements merge to sorted array 
+for an example => 80,10,20,30,40,70,60,50
+  80,10,20,30 => will divided into 2 halfs and 80,10 will merge and return as 10,80 
+  then 20,30 will merge as 20,30
+  them (10,80) and (20,30) => will return as 10,20,30,80
