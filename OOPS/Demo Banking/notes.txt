@@ -1,0 +1,3 @@
+in the backend write a code where it will be stores the balance of a user in the db
+use data hiding: make the instace varibale as private so that can not be acccess outside the class
+after the varification allow the user to stores the value in that account
